@@ -1,0 +1,3 @@
+No subir datos sensibles al control de versiones
+Validar y limpiar los datos que ingresa el usuario
+Mantener software actualizado.

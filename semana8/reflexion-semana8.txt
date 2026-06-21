@@ -1,0 +1,9 @@
+La seguridad no es una simplemente una barrera, tambien protege los datos, derechos y 
+la democracia social, esto se debe a que en muchos procesos participativos o actividades
+desarrolladas por la comunidad las personas exponen sus necesidades e información críticas 
+de su entorno, la seguridad digital evita que se manipule la información y se generen 
+malentendendidos. Las prácticas de seguridad (como los respaldos y el control de accesos)
+actuan como un espacio que recopila información, la organiza y se asegura de conservar 
+los datos (actas, veedurias, registros contables, etc.), cuando a una plataforma es vulnerable
+es blanco fácil de ataques automatizados lo que debilita el control de la comunidad sobre 
+sus propias herramientas.

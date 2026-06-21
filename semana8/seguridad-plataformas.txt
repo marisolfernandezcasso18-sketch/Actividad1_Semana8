@@ -1,0 +1,5 @@
+Implementación de respaldos automatizados y descentralizados (Backups)
+Principio de Minimo Privilegio
+Actualización continua de dependencias
+Mecanismos de moderación comunitaria
+Validación de datos de entrada
